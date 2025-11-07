@@ -1,51 +1,58 @@
 # Foyshal Sarkar · pialXVII  
-CSE Undergrad | Embedded Systems & Computer Graphics Enthusiast  
+CSE Undergrad(4th Year) · Robotics · Embedded Systems · Web & Software Developer
 
 ---
 
-## 👋 About Me  
-I’m a computer science student on a mission to build real-world systems + interactive visual apps.  
-- Passionate about **computer graphics**, working with tools like PyOpenGL and implementing custom algorithms (line-drawing, transformations).  
-- Designing **embedded/IoT systems** — projects using microcontrollers (Arduino, Raspberry Pi), sensors, actuators, cameras.  
-- Striving to create *autonomous robots* and smart systems (not just line-followers or remote-controlled) that perceive, decide & act.  
-- I follow structured code templates (as required in my CSE423 class and other courses) to ensure clarity, maintainability & discipline.
+## 👋 About Me
+I build robots, embedded systems, and web software that solve real problems.  
+I enjoy full-stack development from hardware (sensors, microcontrollers) to server-side (Laravel/PHP) and data work (Python — ML & NLP).  
+I document my projects here on GitHub so others can learn, reuse, and collaborate.
 
 ---
 
-## 🧰 Tech Stack  
-**Languages & Tools:**  
-- Python (including NumPy, PyOpenGL)  
-- C / C++ (microcontroller work)  
-- Arduino / ESP32 / Raspberry Pi  
-- Embedded firmware, sensor integration, actuator control  
-- 3D graphics fundamentals: vector math, modelling, shading  
-- Version control (Git & GitHub)  
+## 🧭 What I Do
+- Design and build **robotics & embedded systems** (ESP32, Arduino, Raspberry Pi) for home automation and security.  
+- Develop **web and software applications** using **Laravel / PHP** with SQL databases.  
+- Create **computer graphics** projects using **Python + OpenGL**.  
+- Learn and apply **NLP (NLTK)** and **machine learning** (Scikit-learn, NumPy, Pandas, Matplotlib).  
+- Currently planning to expand into **cybersecurity**.
 
 ---
 
-## 🗂 Featured Projects  
-Here are some highlighted repositories:  
-- **CSE423-ComputerGraphics** — My coursework for the CSE423 class: modelling transformations, vector/line drawing, interactive graphics.  
-- **DIY-Smart-Street-Light** — An embedded system with LDR, IR sensors, ultrasonic sensor, servo + DC motor to create an autonomous smart street light.  
-- **Smart Delivery Receive Box** — Using ESP32-CAM & Arduino Uno: automatic parcel detection, image capture, secure box opening.  
-- **Catch-the-Diamonds!** — My PyOpenGL game: uses only `GL_POINTS`, custom midpoint line algorithm, bounding-box collision, UI (pause/restart/exit), 500×500 window.  
-
-
----
-
-## 🎯 What I’m Learning  
-- Advanced computer graphics: shaders, camera control, lighting, real-time rendering  
-- Autonomous robotics: sensor fusion, decision making, path planning  
-- Embedded systems: low-power design, real-time constraints, communication protocols  
-- Systems integration: combining software + hardware + UI for fully functional prototypes  
+## 🗂 Featured Projects
+- **Home Security & Automation System** — A complete robotics/embedded project using sensors, actuators, camera and automation control.   
+- **DIY Smart Street Light** — Autonomous street light using LDR, IR & ultrasonic sensors with servo and DC motor control.  
+- **Catch-the-Diamonds!** — A PyOpenGL interactive game using GL_POINTS, custom midpoint line algorithm, collision detection & UI controls.  
+- **Emotional Damage (Game)** — A Python & OpenGL comedy-themed graphics game demonstrating custom rendering and event interaction.  
+- **Web Application (Laravel & PHP)** — SQL-based full-stack system with authentication, CRUD dashboard, and structured MVC design.  
+- **Organic Food Seller Website** — A webpage for showcasing and selling organic food products online.
 
 ---
 
-## 📫 Let’s Connect  
+## 🛠 Tech Stack
+**Languages:** Python, C, C++, PHP, SQL  
+**Frameworks & Tools:** Laravel, PyOpenGL, NumPy, Pandas, Scikit-learn, Matplotlib, NLTK  
+**Hardware:** Arduino, ESP32, ESP32-CAM, Raspberry Pi 
+**Networking & Simulation Tools:** Cisco Packet Tracer
+**Other:** Git, REST APIs, MySQL / MariaDB
+
+---
+
+## 🧠 Learning & Interests
+- Natural Language Processing & Text Analytics  
+- Machine Learning (classification, regression, performance evaluation)  
+- Computer Graphics & real-time rendering (OpenGL)  
+- Web apps & backend (Laravel / PHP)  
+- Cybersecurity (next learning goal)
+
+---
+
+## 📫 Contact
 - Email: **akmfoyshalsarkar@gmail.com**  
-- Always open for collaboration, code review, new project ideas (especially graphics, hardware, robotics)  
-- Feel free to browse my repos, raise issues, fork and contribute  
+- GitHub: **[@pialXVII](https://github.com/pialXVII)**  
+- Open for collaboration in robotics, embedded systems, and software projects
 
 ---
 
-**“The only easy day was yesterday.”**
+
+> *I build practical solutions that combine hardware and software — from sensors to dashboards. If you like robotics, embedded systems, or web apps, let's connect!*
