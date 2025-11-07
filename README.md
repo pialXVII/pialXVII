@@ -30,11 +30,13 @@ I document my projects here on GitHub so others can learn, reuse, and collaborat
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, C, C++, PHP, SQL  
-**Frameworks & Tools:** Laravel, PyOpenGL, NumPy, Pandas, Scikit-learn, Matplotlib, NLTK  
-**Hardware:** Arduino, ESP32, ESP32-CAM, Raspberry Pi 
-**Networking & Simulation Tools:** Cisco Packet Tracer
-**Other:** Git, REST APIs, MySQL / MariaDB
+-**Languages:** Python, C, C++, PHP, SQL  
+-**Frameworks & Tools:** Laravel, PyOpenGL, NumPy, Pandas, Scikit-learn, Matplotlib, NLTK  
+-**Hardware:** Arduino, ESP32, ESP32-CAM, Raspberry Pi.
+
+-**Networking & Simulation Tools:** Cisco Packet Tracer.
+
+-**Other:** Git, REST APIs, MySQL / MariaDB
 
 ---
 
