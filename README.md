@@ -29,7 +29,7 @@ Here are some highlighted repositories:
 - **DIY-Smart-Street-Light** — An embedded system with LDR, IR sensors, ultrasonic sensor, servo + DC motor to create an autonomous smart street light.  
 - **Smart Delivery Receive Box** — Using ESP32-CAM & Arduino Uno: automatic parcel detection, image capture, secure box opening.  
 - **Catch-the-Diamonds!** — My PyOpenGL game: uses only `GL_POINTS`, custom midpoint line algorithm, bounding-box collision, UI (pause/restart/exit), 500×500 window.  
-- *(Add other repos as you like, e.g., robotics platform, sensor networks, etc.)*
+
 
 ---
 
