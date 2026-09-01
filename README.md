@@ -9,6 +9,9 @@ Computer Science undergraduate at BRAC University, working across ML research an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-foyshal--sarkar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/foyshal-sarkar)
 [![Email](https://img.shields.io/badge/Email-akmfoyshalsarkar@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akmfoyshalsarkar@gmail.com)
 [![Location](https://img.shields.io/badge/Dhaka-Bangladesh-2F855A?style=flat&logo=googlemaps&logoColor=white)](#)
+## 🌐 Live Portfolio
+
+[**View My Portfolio →**](https://portfolio-foyshal-sarkar.vercel.app/)
 
 </div>
 
